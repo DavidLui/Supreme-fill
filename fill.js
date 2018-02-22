@@ -3,10 +3,10 @@
 
 (function() {
 
-var yourCCnumber = YOURCCNUMBER,
-YOURMONTH = YOURMONTHNUMBER,
-YOURYEAR = YOURYEARNUMBER,
-CCV = YOURCCVNUMBER;
+var yourCCnumber = "XXXX YYYY ZZZZ SSSS", //keep this format
+YOURMONTH = "09",
+YOURYEAR = "2021",
+CCV = "123";
 
 
 $(".icheckbox_minimal").click();
